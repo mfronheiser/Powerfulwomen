@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color:#e1eef5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title-container{
+    margin-top: 10%;
+}
+
+.quote-box{
+    border: 1px solid black;
+    color: black;
+    background-color: #99c7e0;
+    height: 3.5rem;
+    margin-top: 20px;
+}
+
+#button{
+    height: 30px;
+    width: 10%;
+    border-radius: 25%;
+    background-color: white;
+    border: 1px solid gray;
+}
